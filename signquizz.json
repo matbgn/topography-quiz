@@ -21,22 +21,22 @@
 	},
 	{
 		"id":5,
-		"name": "Dépression",
+		"name": "DÃ©pression",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_005.png"
 	},
 	{
 		"id":6,
-		"name": "Itinéraire balisé",
+		"name": "ItinÃ©raire balisÃ©",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_006.png"
 	},
 	{
 		"id":7,
-		"name": "Auberge isolée",
+		"name": "Auberge isolÃ©e",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_007.png"
 	},
 	{
 		"id":8,
-		"name": "Forêt",
+		"name": "ForÃªt",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_008.png"
 	},
 	{
@@ -46,12 +46,12 @@
 	},
 	{
 		"id":10,
-		"name": "Cimetière",
+		"name": "CimetiÃ¨re",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_010.png"
 	},
 	{
 		"id":11,
-		"name": "Téléski",
+		"name": "TÃ©lÃ©ski",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_011.png"
 	},
 	{
@@ -81,7 +81,7 @@
 	},
 	{
 		"id":17,
-		"name": "Route de 1ere classe",
+		"name": "Route de 1re classe",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_017.png"
 	},
 	{
@@ -106,7 +106,7 @@
 	},
 	{
 		"id":22,
-		"name": "Bâtiment",
+		"name": "BÃ¢timent",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_022.png"
 	},
 	{
@@ -131,7 +131,7 @@
 	},
 	{
 		"id":27,
-		"name": "Cheminée marquante",
+		"name": "CheminÃ©e marquante",
 		"imageURL": "http://www.at3flo.ch/topo/Screenshot_027.png"
 	},
 	{

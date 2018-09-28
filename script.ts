@@ -68,7 +68,7 @@ let validateAnswer : Function = (answer: any) : void => {
   }
   
   button.addEventListener('click',function(e){
-    output.innerHTML = "Résultat : " + validation + '<br><br>';
+    output.innerHTML = "RÃ©sultat : " + validation + '<br><br>';
     document.querySelector('#output').appendChild(buttonRecharge);
   })
   
