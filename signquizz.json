@@ -1,0 +1,157 @@
+[
+	{
+		"id":1,
+		"name": "Halte",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_001.png"
+	},
+	{
+		"id":2,
+		"name": "Talus",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_002.png"
+	},
+	{
+		"id":3,
+		"name": "Alimentation en eau",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_003.png"
+	},
+	{
+		"id":4,
+		"name": "Camping",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_004.png"
+	},
+	{
+		"id":5,
+		"name": "Dépression",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_005.png"
+	},
+	{
+		"id":6,
+		"name": "Itinéraire balisé",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_006.png"
+	},
+	{
+		"id":7,
+		"name": "Auberge isolée",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_007.png"
+	},
+	{
+		"id":8,
+		"name": "Forêt",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_008.png"
+	},
+	{
+		"id":9,
+		"name": "Parc",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_009.png"
+	},
+	{
+		"id":10,
+		"name": "Cimetière",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_010.png"
+	},
+	{
+		"id":11,
+		"name": "Téléski",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_011.png"
+	},
+	{
+		"id":12,
+		"name": "Chemin rural",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_012.png"
+	},
+	{
+		"id":13,
+		"name": "Chemin carrossable",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_013.png"
+	},
+	{
+		"id":14,
+		"name": "Sentier",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_014.png"
+	},
+	{
+		"id":15,
+		"name": "Route de 3e classe",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_015.png"
+	},	
+	{
+		"id":16,
+		"name": "Route de 2e classe",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_016.png"
+	},
+	{
+		"id":17,
+		"name": "Route de 1ere classe",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_017.png"
+	},
+	{
+		"id":18,
+		"name": "Tour",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_018.png"
+	},
+	{
+		"id":19,
+		"name": "Eglise",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_019.png"
+	},
+	{
+		"id":20,
+		"name": "Chapelle",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_020.png"
+	},
+	{
+		"id":21,
+		"name": "Clocher",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_021.png"
+	},
+	{
+		"id":22,
+		"name": "Bâtiment",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_022.png"
+	},
+	{
+		"id":23,
+		"name": "Tour d'habitation",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_023.png"
+	},
+	{
+		"id":24,
+		"name": "Couvert",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_024.png"
+	},
+	{
+		"id":25,
+		"name": "Tour de refroidissement",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_025.png"
+	},
+	{
+		"id":26,
+		"name": "Tour d'observation",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_026.png"
+	},
+	{
+		"id":27,
+		"name": "Cheminée marquante",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_027.png"
+	},
+	{
+		"id":28,
+		"name": "Pyramide de triangulation",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_028.png"
+	},
+	{
+		"id":29,
+		"name": "Oratoire / croix",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_029.png"
+	},
+	{
+		"id":30,
+		"name": "Monument",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_030.png"
+	},
+	{
+		"id":31,
+		"name": "Mur sec",
+		"imageURL": "http://www.at3flo.ch/topo/Screenshot_031.png"
+	}
+]
