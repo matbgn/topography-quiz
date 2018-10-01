@@ -1,4 +1,4 @@
-var displayedSign;
+var signName;
 window.onload = function loadJSON() {
     //let queryURL = "http://www.at3flo.ch/signquizz.json";
     var queryURL = "signquizz.json";
@@ -13,7 +13,7 @@ window.onload = function loadJSON() {
         var index;
         index = getRndInteger(0, objectLength(signs) - 1);
         image.innerHTML = "<img src=\"" + signs[index].imageURL + "\">";
-        displayedSign = signs[index].name;
+        signName = signs[index].name;
     };
     xhr.onerror = function (err) {
         console.log("Error: " + err);
@@ -33,23 +33,22 @@ var getRndInteger = function (min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 };
 var validateAnswer = function (answer) {
-    var name = answer.value;
     var validation = false;
-    var output = document.querySelector('#output');
-    var button = document.querySelector('#displayResult');
-    var buttonRecharge = document.createElement('button');
-    buttonRecharge.textContent = "Recharger la page";
-    buttonRecharge.className = "btn btn-secondary";
-    if (replaceDiacritics(name).toUpperCase() === displayedSign) {
+    if (replaceDiacritics(answer.value).toUpperCase() === signName) {
         validation = true;
     }
     else {
         validation = false;
     }
+    var output = document.querySelector('#output');
+    var button = document.querySelector('#displayResult');
     button.addEventListener('click', function (e) {
         output.innerHTML = "Résultat : " + validation + '<br><br>';
         document.querySelector('#output').appendChild(buttonRecharge);
     });
+    var buttonRecharge = document.createElement('button');
+    buttonRecharge.textContent = "Recharger la page";
+    buttonRecharge.className = "btn btn-secondary";
     buttonRecharge.addEventListener('click', function (e) {
         location.reload();
     });

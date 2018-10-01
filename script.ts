@@ -1,4 +1,4 @@
-var displayedSign : string;
+var signName : string;
 
 window.onload = function loadJSON() {
   //let queryURL = "http://www.at3flo.ch/signquizz.json";
@@ -24,7 +24,7 @@ window.onload = function loadJSON() {
 
     image.innerHTML = `<img src="${signs[index].imageURL}">`;
 
-    displayedSign = signs[index].name; 
+    signName = signs[index].name; 
   }
 
   xhr.onerror = function(err){
@@ -52,26 +52,27 @@ let getRndInteger : Function = (min : number, max: number) => {
 
 let validateAnswer : Function = (answer: any) : void => {
   
-  let name : string = answer.value;
   let validation : boolean = false;
-  let output : Element = document.querySelector('#output');
-  let button : Element = document.querySelector('#displayResult');
-  let buttonRecharge : Element = document.createElement('button');
 
-  buttonRecharge.textContent = "Recharger la page";
-  buttonRecharge.className="btn btn-secondary";
-
-  if (replaceDiacritics(name).toUpperCase() === displayedSign){
+  if (replaceDiacritics(answer.value).toUpperCase() === signName){
     validation = true;
   } else {
     validation = false;
   }
+
+  let output : Element = document.querySelector('#output');
+  let button : Element = document.querySelector('#displayResult');
   
   button.addEventListener('click',function(e){
     output.innerHTML = "Résultat : " + validation + '<br><br>';
     document.querySelector('#output').appendChild(buttonRecharge);
   })
   
+  let buttonRecharge : Element = document.createElement('button');
+
+  buttonRecharge.textContent = "Recharger la page";
+  buttonRecharge.className="btn btn-secondary";
+
   buttonRecharge.addEventListener('click', function(e){
     location.reload();
   })
