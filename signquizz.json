@@ -2,156 +2,460 @@
 	{
 		"id":1,
 		"name": "HALTE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_001.png"
+		"imageURL": "img/Screenshot_001.png"
 	},
 	{
 		"id":2,
 		"name": "TALUS",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_002.png"
+		"imageURL": "img/Screenshot_002.png"
 	},
 	{
 		"id":3,
 		"name": "ALIMENTATION EN EAU",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_003.png"
+		"imageURL": "img/Screenshot_003.png"
 	},
 	{
 		"id":4,
 		"name": "CAMPING",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_004.png"
+		"imageURL": "img/Screenshot_004.png"
 	},
 	{
 		"id":5,
 		"name": "DEPRESSION",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_005.png"
+		"imageURL": "img/Screenshot_005.png"
 	},
 	{
 		"id":6,
 		"name": "ITINERAIRE BALISE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_006.png"
+		"imageURL": "img/Screenshot_006.png"
 	},
 	{
 		"id":7,
 		"name": "AUBERGE ISOLEE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_007.png"
+		"imageURL": "img/Screenshot_007.png"
 	},
 	{
 		"id":8,
 		"name": "FORET",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_008.png"
+		"imageURL": "img/Screenshot_008.png"
 	},
 	{
 		"id":9,
 		"name": "PARC",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_009.png"
+		"imageURL": "img/Screenshot_009.png"
 	},
 	{
 		"id":10,
 		"name": "CIMETIERE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_010.png"
+		"imageURL": "img/Screenshot_010.png"
 	},
 	{
 		"id":11,
 		"name": "TELESKI",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_011.png"
+		"imageURL": "img/Screenshot_011.png"
 	},
 	{
 		"id":12,
 		"name": "CHEMIN RURAL",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_012.png"
+		"imageURL": "img/Screenshot_012.png"
 	},
 	{
 		"id":13,
 		"name": "CHEMIN CARROSSABLE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_013.png"
+		"imageURL": "img/Screenshot_013.png"
 	},
 	{
 		"id":14,
 		"name": "SENTIER",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_014.png"
+		"imageURL": "img/Screenshot_014.png"
 	},
 	{
 		"id":15,
 		"name": "ROUTE DE CLASSE 3",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_015.png"
+		"imageURL": "img/Screenshot_015.png"
 	},	
 	{
 		"id":16,
 		"name": "ROUTE DE CLASSE 2",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_016.png"
+		"imageURL": "img/Screenshot_016.png"
 	},
 	{
 		"id":17,
 		"name": "ROUTE DE CLASSE 1",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_017.png"
+		"imageURL": "img/Screenshot_017.png"
 	},
 	{
 		"id":18,
 		"name": "TOUR",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_018.png"
+		"imageURL": "img/Screenshot_018.png"
 	},
 	{
 		"id":19,
 		"name": "EGLISE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_019.png"
+		"imageURL": "img/Screenshot_019.png"
 	},
 	{
 		"id":20,
 		"name": "CHAPELLE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_020.png"
+		"imageURL": "img/Screenshot_020.png"
 	},
 	{
 		"id":21,
 		"name": "CLOCHER",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_021.png"
+		"imageURL": "img/Screenshot_021.png"
 	},
 	{
 		"id":22,
 		"name": "BATIMENT",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_022.png"
+		"imageURL": "img/Screenshot_022.png"
 	},
 	{
 		"id":23,
 		"name": "TOUR D'HABITATION",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_023.png"
+		"imageURL": "img/Screenshot_023.png"
 	},
 	{
 		"id":24,
 		"name": "COUVERT",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_024.png"
+		"imageURL": "img/Screenshot_024.png"
 	},
 	{
 		"id":25,
 		"name": "TOUR DE REFROIDISSEMENT",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_025.png"
+		"imageURL": "img/Screenshot_025.png"
 	},
 	{
 		"id":26,
 		"name": "TOUR D'OBSERVATION",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_026.png"
+		"imageURL": "img/Screenshot_026.png"
 	},
 	{
 		"id":27,
 		"name": "CHEMINEE MARQUANTE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_027.png"
+		"imageURL": "img/Screenshot_027.png"
 	},
 	{
 		"id":28,
 		"name": "PYRAMIDE DE TRIANGULATION",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_028.png"
+		"imageURL": "img/Screenshot_028.png"
 	},
 	{
 		"id":29,
 		"name": "ORATOIRE",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_029.png"
+		"imageURL": "img/Screenshot_029.png"
 	},
 	{
 		"id":30,
 		"name": "MONUMENT",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_030.png"
+		"imageURL": "img/Screenshot_030.png"
 	},
 	{
 		"id":31,
 		"name": "MUR SEC",
-		"imageURL": "http://www.at3flo.ch/topo/Screenshot_031.png"
+		"imageURL": "img/Screenshot_031.png"
+	},
+	{
+		"id":32,
+		"name": "BARRIERE",
+		"imageURL": "img/Screenshot_032.png"
+	},
+	{
+		"id":33,
+		"name": "GARE SOUTERRAINE",
+		"imageURL": "img/Screenshot_033.png"
+	},
+	{
+		"id":34,
+		"name": "CHEMIN DE FER",
+		"imageURL": "img/Screenshot_034.png"
+	},
+	{
+		"id":35,
+		"name": "TUNNEL",
+		"imageURL": "img/Screenshot_035.png"
+	},
+	{
+		"id":36,
+		"name": "GALERIE",
+		"imageURL": "img/Screenshot_036.png"
+	},
+	{
+		"id":37,
+		"name": "TELEPHERIQUE",
+		"imageURL": "img/Screenshot_037.png"
+	},
+	{
+		"id":38,
+		"name": "ASCENSEUR",
+		"imageURL": "img/Screenshot_038.png"
+	},
+	{
+		"id":39,
+		"name": "DEBARCADERE",
+		"imageURL": "img/Screenshot_039.png"
+	},
+	{
+		"id":40,
+		"name": "BAC POUR LES PERSONNES",
+		"imageURL": "img/Screenshot_040.png"
+	},
+	{
+		"id":41,
+		"name": "PARE-AVALANCHES",
+		"imageURL": "img/Screenshot_041.png"
+	},
+	{
+		"id":42,
+		"name": "TERRAIN DE SPORT",
+		"imageURL": "img/Screenshot_042.png"
+	},
+	{
+		"id":43,
+		"name": "PISTE D'ATHLETISME",
+		"imageURL": "img/Screenshot_043.png"
+	},
+	{
+		"id":44,
+		"name": "TREMPLIN",
+		"imageURL": "img/Screenshot_044.png"
+	},
+	{
+		"id":45,
+		"name": "HIPPODROME",
+		"imageURL": "img/Screenshot_045.png"
+	},
+	{
+		"id":46,
+		"name": "PISTE DE LUGE",
+		"imageURL": "img/Screenshot_046.png"
+	},
+	{
+		"id":47,
+		"name": "STAND DE TIR",
+		"imageURL": "img/Screenshot_047.png"
+	},
+	{
+		"id":48,
+		"name": "AERODROME",
+		"imageURL": "img/Screenshot_048.png"
+	},
+	{
+		"id":49,
+		"name": "GRANDE ANTENNE EMETTRICE",
+		"imageURL": "img/Screenshot_049.png"
+	},
+	{
+		"id":50,
+		"name": "PETITE ANTENNE EMETTRICE",
+		"imageURL": "img/Screenshot_050.png"
+	},
+	{
+		"id":51,
+		"name": "LIGNE ELECTRIQUE A HAUTE TENSION",
+		"imageURL": "img/Screenshot_051.png"
+	},
+	{
+		"id":52,
+		"name": "BASSIN",
+		"imageURL": "img/Screenshot_052.png"
+	},
+	{
+		"id":53,
+		"name": "PISCINE",
+		"imageURL": "img/Screenshot_053.png"
+	},
+	{
+		"id":54,
+		"name": "FONTAINE",
+		"imageURL": "img/Screenshot_054.png"
+	},
+	{
+		"id":55,
+		"name": "CHATEAU D'EAU",
+		"imageURL": "img/Screenshot_055.png"
+	},
+	{
+		"id":56,
+		"name": "EOLIENNE",
+		"imageURL": "img/Screenshot_056.png"
+	},
+	{
+		"id":57,
+		"name": "DIGUE",
+		"imageURL": "img/Screenshot_057.png"
+	},
+	{
+		"id":58,
+		"name": "BARRAGE",
+		"imageURL": "img/Screenshot_058.png"
+	},
+	{
+		"id":59,
+		"name": "TERRAIN DE GOLF",
+		"imageURL": "img/Screenshot_059.png"
+	},
+	{
+		"id":60,
+		"name": "JARDINS FAMILIAUX",
+		"imageURL": "img/Screenshot_060.png"
+	},
+	{
+		"id":61,
+		"name": "HELIPORT",
+		"imageURL": "img/Screenshot_061.png"
+	},
+	{
+		"id":62,
+		"name": "HOPITAL",
+		"imageURL": "img/Screenshot_062.png"
+	},
+	{
+		"id":63,
+		"name": "VERGER",
+		"imageURL": "img/Screenshot_063.png"
+	},
+	{
+		"id":64,
+		"name": "VIGNES",
+		"imageURL": "img/Screenshot_064.png"
+	},
+	{
+		"id":65,
+		"name": "CENTRALE SOLAIRE",
+		"imageURL": "img/Screenshot_065.png"
+	},
+	{
+		"id":66,
+		"name": "DECHARGE",
+		"imageURL": "img/Screenshot_066.png"
+	},
+	{
+		"id":67,
+		"name": "LIMITE DE DISTRICT",
+		"imageURL": "img/Screenshot_067.png"
+	},
+	{
+		"id":68,
+		"name": "LIMITE DE COMMUNE",
+		"imageURL": "img/Screenshot_068.png"
+	},
+	{
+		"id":69,
+		"name": "CONDUITE FORCEE",
+		"imageURL": "img/Screenshot_069.png"
+	},
+	{
+		"id":70,
+		"name": "GALERIE HYDRAULIQUE",
+		"imageURL": "img/Screenshot_070.png"
+	},
+	{
+		"id":71,
+		"name": "SOURCE",
+		"imageURL": "img/Screenshot_071.png"
+	},
+	{
+		"id":72,
+		"name": "CASCADE",
+		"imageURL": "img/Screenshot_072.png"
+	},
+	{
+		"id":73,
+		"name": "DOLINE",
+		"imageURL": "img/Screenshot_073.png"
+	},
+	{
+		"id":74,
+		"name": "CAVERNE",
+		"imageURL": "img/Screenshot_074.png"
+	},
+	{
+		"id":75,
+		"name": "GRAVIERE",
+		"imageURL": "img/Screenshot_075.png"
+	},
+	{
+		"id":76,
+		"name": "CARRIERE",
+		"imageURL": "img/Screenshot_076.png"
+	},
+	{
+		"id":77,
+		"name": "FORET CLAIRSEMEE",
+		"imageURL": "img/Screenshot_077.png"
+	},
+	{
+		"id":78,
+		"name": "ZONE HUMIDE",
+		"imageURL": "img/Screenshot_077.png"
+	},
+	{
+		"id":79,
+		"name": "MUR",
+		"imageURL": "img/Screenshot_079.png"
+	},
+	{
+		"id":80,
+		"name": "RUINE",
+		"imageURL": "img/Screenshot_080.png"
+	},
+	{
+		"id":81,
+		"name": "CHATEAU",
+		"imageURL": "img/Screenshot_081.png"
+	},
+	{
+		"id":82,
+		"name": "STATION RADIO",
+		"imageURL": "img/Screenshot_082.png"
+	},
+	{
+		"id":83,
+		"name": "RESERVOIRS",
+		"imageURL": "img/Screenshot_083.png"
+	},
+	{
+		"id":84,
+		"name": "GLACIER",
+		"imageURL": "img/Screenshot_084.png"
+	},
+	{
+		"id":85,
+		"name": "LIMITE D'ETAT",
+		"imageURL": "img/Screenshot_085.png"
+	},
+	{
+		"id":86,
+		"name": "LIMITE DE CANTON",
+		"imageURL": "img/Screenshot_086.png"
+	},
+	{
+		"id":87,
+		"name": "LIMITE DE DISTRICT",
+		"imageURL": "img/Screenshot_087.png"
+	},
+	{
+		"id":88,
+		"name": "LIMITE DE COMMUNE",
+		"imageURL": "img/Screenshot_088.png"
+	},	{
+		"id":89,
+		"name": "AUTOROUTE",
+		"imageURL": "img/Screenshot_089.png"
+	},
+	{
+		"id":90,
+		"name": "SEMI-AUTOROUTE",
+		"imageURL": "img/Screenshot_090.png"
+	},
+	{
+		"id":91,
+		"name": "TELEPHERIQUE",
+		"imageURL": "img/Screenshot_091.png"
+	},
+	{
+		"id":92,
+		"name": "FRAGMENT DE SENTIER",
+		"imageURL": "img/Screenshot_092.png"
 	}
 ]
