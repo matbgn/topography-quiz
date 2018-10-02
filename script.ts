@@ -29,7 +29,6 @@ window.onload = function loadJSON() {
 
 
     for (let i = 0; i < objectLength(signs[index].synonymous); i++) {
-      console.log(signs[index].synonymous[i]);
       signNameSyn.push(signs[index].synonymous[i]);
     }
   }
@@ -69,12 +68,20 @@ let validateAnswer: Function = (answer: any): void => {
     validation = "faux";
   }
 
+  document.querySelector("#answer").addEventListener("keyup", function (event) {
+    event.preventDefault();
+    if ((event as any).keyCode === 13) {
+      (document.querySelector("#displayResult") as HTMLElement).click();
+    }
+  });
+
   let output: Element = document.querySelector('#output');
   let button: Element = document.querySelector('#displayResult');
 
   button.addEventListener('click', function (e) {
     output.innerHTML = "<br>Résultat : " + validation + '<br><br>';
-    document.querySelector('#output').appendChild(buttonFindSolution);
+    output.appendChild(buttonFindSolution);
+    (document.querySelector("#nextQuestion") as HTMLElement).focus();
   })
 
   let buttonFindSolution: Element = document.createElement('button');
@@ -91,6 +98,7 @@ let validateAnswer: Function = (answer: any): void => {
 
 function reloadPage() {
   location.reload();
+  document.querySelector("#answer").nodeValue = "";
 }
 
 let replaceDiacritics: Function = (str: string): string => {

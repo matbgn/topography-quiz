@@ -21,7 +21,7 @@
         <div id=response><label>
             <br>
             <span>Entrez votre réponse ici :</span>
-            <input type="text" name="answer" maxlength="50" required oninput="validateAnswer(this)">
+            <input type="text" name="answer" id="answer" maxlength="50" autofocus onfocus="this.value=''" value="" required oninput="validateAnswer(this)">
         </label>
 
         <button id="displayResult" type="button" class="btn btn-success">Contrôler la réponse</button>

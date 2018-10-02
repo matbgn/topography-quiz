@@ -16,7 +16,6 @@ window.onload = function loadJSON() {
         image.innerHTML = "<img src=\"" + signs[index].imageURL + "\">";
         signName = signs[index].name;
         for (var i = 0; i < objectLength(signs[index].synonymous); i++) {
-            console.log(signs[index].synonymous[i]);
             signNameSyn.push(signs[index].synonymous[i]);
         }
     };
@@ -48,11 +47,18 @@ var validateAnswer = function (answer) {
     else {
         validation = "faux";
     }
+    document.querySelector("#answer").addEventListener("keyup", function (event) {
+        event.preventDefault();
+        if (event.keyCode === 13) {
+            document.querySelector("#displayResult").click();
+        }
+    });
     var output = document.querySelector('#output');
     var button = document.querySelector('#displayResult');
     button.addEventListener('click', function (e) {
         output.innerHTML = "<br>Résultat : " + validation + '<br><br>';
-        document.querySelector('#output').appendChild(buttonFindSolution);
+        output.appendChild(buttonFindSolution);
+        document.querySelector("#nextQuestion").focus();
     });
     var buttonFindSolution = document.createElement('button');
     buttonFindSolution.textContent = "Chercher la solution";
@@ -64,6 +70,7 @@ var validateAnswer = function (answer) {
 };
 function reloadPage() {
     location.reload();
+    document.querySelector("#answer").nodeValue = "";
 }
 var replaceDiacritics = function (str) {
     var alphabet = {
