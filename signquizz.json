@@ -2,460 +2,552 @@
 	{
 		"id":1,
 		"name": "HALTE",
+		"synonymous": ["HALTE DE TRAIN"],
 		"imageURL": "img/Screenshot_001.png"
 	},
 	{
 		"id":2,
 		"name": "TALUS",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_002.png"
 	},
 	{
 		"id":3,
 		"name": "ALIMENTATION EN EAU",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_003.png"
 	},
 	{
 		"id":4,
 		"name": "CAMPING",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_004.png"
 	},
 	{
 		"id":5,
 		"name": "DEPRESSION",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_005.png"
 	},
 	{
 		"id":6,
 		"name": "ITINERAIRE BALISE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_006.png"
 	},
 	{
 		"id":7,
 		"name": "AUBERGE ISOLEE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_007.png"
 	},
 	{
 		"id":8,
 		"name": "FORET",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_008.png"
 	},
 	{
 		"id":9,
 		"name": "PARC",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_009.png"
 	},
 	{
 		"id":10,
 		"name": "CIMETIERE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_010.png"
 	},
 	{
 		"id":11,
 		"name": "TELESKI",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_011.png"
 	},
 	{
 		"id":12,
 		"name": "CHEMIN RURAL",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_012.png"
 	},
 	{
 		"id":13,
 		"name": "CHEMIN CARROSSABLE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_013.png"
 	},
 	{
 		"id":14,
 		"name": "SENTIER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_014.png"
 	},
 	{
 		"id":15,
 		"name": "ROUTE DE CLASSE 3",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_015.png"
 	},	
 	{
 		"id":16,
 		"name": "ROUTE DE CLASSE 2",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_016.png"
 	},
 	{
 		"id":17,
 		"name": "ROUTE DE CLASSE 1",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_017.png"
 	},
 	{
 		"id":18,
 		"name": "TOUR",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_018.png"
 	},
 	{
 		"id":19,
 		"name": "EGLISE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_019.png"
 	},
 	{
 		"id":20,
 		"name": "CHAPELLE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_020.png"
 	},
 	{
 		"id":21,
 		"name": "CLOCHER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_021.png"
 	},
 	{
 		"id":22,
 		"name": "BATIMENT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_022.png"
 	},
 	{
 		"id":23,
 		"name": "TOUR D'HABITATION",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_023.png"
 	},
 	{
 		"id":24,
 		"name": "COUVERT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_024.png"
 	},
 	{
 		"id":25,
 		"name": "TOUR DE REFROIDISSEMENT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_025.png"
 	},
 	{
 		"id":26,
 		"name": "TOUR D'OBSERVATION",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_026.png"
 	},
 	{
 		"id":27,
 		"name": "CHEMINEE MARQUANTE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_027.png"
 	},
 	{
 		"id":28,
 		"name": "PYRAMIDE DE TRIANGULATION",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_028.png"
 	},
 	{
 		"id":29,
 		"name": "ORATOIRE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_029.png"
 	},
 	{
 		"id":30,
 		"name": "MONUMENT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_030.png"
 	},
 	{
 		"id":31,
 		"name": "MUR SEC",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_031.png"
 	},
 	{
 		"id":32,
 		"name": "BARRIERE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_032.png"
 	},
 	{
 		"id":33,
 		"name": "GARE SOUTERRAINE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_033.png"
 	},
 	{
 		"id":34,
 		"name": "CHEMIN DE FER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_034.png"
 	},
 	{
 		"id":35,
 		"name": "TUNNEL",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_035.png"
 	},
 	{
 		"id":36,
 		"name": "GALERIE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_036.png"
 	},
 	{
 		"id":37,
 		"name": "TELEPHERIQUE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_037.png"
 	},
 	{
 		"id":38,
 		"name": "ASCENSEUR",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_038.png"
 	},
 	{
 		"id":39,
 		"name": "DEBARCADERE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_039.png"
 	},
 	{
 		"id":40,
 		"name": "BAC POUR LES PERSONNES",
+		"synonymous": ["BAC POUR PERSONNES"],
 		"imageURL": "img/Screenshot_040.png"
 	},
 	{
 		"id":41,
 		"name": "PARE-AVALANCHES",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_041.png"
 	},
 	{
 		"id":42,
 		"name": "TERRAIN DE SPORT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_042.png"
 	},
 	{
 		"id":43,
 		"name": "PISTE D'ATHLETISME",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_043.png"
 	},
 	{
 		"id":44,
 		"name": "TREMPLIN",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_044.png"
 	},
 	{
 		"id":45,
 		"name": "HIPPODROME",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_045.png"
 	},
 	{
 		"id":46,
 		"name": "PISTE DE LUGE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_046.png"
 	},
 	{
 		"id":47,
 		"name": "STAND DE TIR",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_047.png"
 	},
 	{
 		"id":48,
 		"name": "AERODROME",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_048.png"
 	},
 	{
 		"id":49,
 		"name": "GRANDE ANTENNE EMETTRICE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_049.png"
 	},
 	{
 		"id":50,
 		"name": "PETITE ANTENNE EMETTRICE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_050.png"
 	},
 	{
 		"id":51,
 		"name": "LIGNE ELECTRIQUE A HAUTE TENSION",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_051.png"
 	},
 	{
 		"id":52,
 		"name": "BASSIN",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_052.png"
 	},
 	{
 		"id":53,
 		"name": "PISCINE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_053.png"
 	},
 	{
 		"id":54,
 		"name": "FONTAINE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_054.png"
 	},
 	{
 		"id":55,
 		"name": "CHATEAU D'EAU",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_055.png"
 	},
 	{
 		"id":56,
 		"name": "EOLIENNE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_056.png"
 	},
 	{
 		"id":57,
 		"name": "DIGUE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_057.png"
 	},
 	{
 		"id":58,
 		"name": "BARRAGE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_058.png"
 	},
 	{
 		"id":59,
 		"name": "TERRAIN DE GOLF",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_059.png"
 	},
 	{
 		"id":60,
 		"name": "JARDINS FAMILIAUX",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_060.png"
 	},
 	{
 		"id":61,
 		"name": "HELIPORT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_061.png"
 	},
 	{
 		"id":62,
 		"name": "HOPITAL",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_062.png"
 	},
 	{
 		"id":63,
 		"name": "VERGER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_063.png"
 	},
 	{
 		"id":64,
 		"name": "VIGNES",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_064.png"
 	},
 	{
 		"id":65,
 		"name": "CENTRALE SOLAIRE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_065.png"
 	},
 	{
 		"id":66,
 		"name": "DECHARGE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_066.png"
 	},
 	{
 		"id":67,
 		"name": "LIMITE DE DISTRICT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_067.png"
 	},
 	{
 		"id":68,
 		"name": "LIMITE DE COMMUNE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_068.png"
 	},
 	{
 		"id":69,
 		"name": "CONDUITE FORCEE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_069.png"
 	},
 	{
 		"id":70,
 		"name": "GALERIE HYDRAULIQUE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_070.png"
 	},
 	{
 		"id":71,
 		"name": "SOURCE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_071.png"
 	},
 	{
 		"id":72,
 		"name": "CASCADE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_072.png"
 	},
 	{
 		"id":73,
 		"name": "DOLINE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_073.png"
 	},
 	{
 		"id":74,
 		"name": "CAVERNE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_074.png"
 	},
 	{
 		"id":75,
 		"name": "GRAVIERE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_075.png"
 	},
 	{
 		"id":76,
 		"name": "CARRIERE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_076.png"
 	},
 	{
 		"id":77,
 		"name": "FORET CLAIRSEMEE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_077.png"
 	},
 	{
 		"id":78,
 		"name": "ZONE HUMIDE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_078.png"
 	},
 	{
 		"id":79,
 		"name": "MUR",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_079.png"
 	},
 	{
 		"id":80,
 		"name": "RUINE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_080.png"
 	},
 	{
 		"id":81,
 		"name": "CHATEAU",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_081.png"
 	},
 	{
 		"id":82,
 		"name": "STATION RADIO",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_082.png"
 	},
 	{
 		"id":83,
 		"name": "RESERVOIRS",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_083.png"
 	},
 	{
 		"id":84,
 		"name": "GLACIER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_084.png"
 	},
 	{
 		"id":85,
 		"name": "LIMITE D'ETAT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_085.png"
 	},
 	{
 		"id":86,
 		"name": "LIMITE DE CANTON",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_086.png"
 	},
 	{
 		"id":87,
 		"name": "LIMITE DE DISTRICT",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_087.png"
 	},
 	{
 		"id":88,
 		"name": "LIMITE DE COMMUNE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_088.png"
 	},	{
 		"id":89,
 		"name": "AUTOROUTE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_089.png"
 	},
 	{
 		"id":90,
 		"name": "SEMI-AUTOROUTE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_090.png"
 	},
 	{
 		"id":91,
 		"name": "TELEPHERIQUE",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_091.png"
 	},
 	{
 		"id":92,
 		"name": "FRAGMENT DE SENTIER",
+		"synonymous": [],
 		"imageURL": "img/Screenshot_092.png"
 	}
 ]

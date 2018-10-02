@@ -1,4 +1,5 @@
 var signName;
+var signNameSyn = [];
 window.onload = function loadJSON() {
     //let queryURL = "http://www.at3flo.ch/signquizz.json";
     var queryURL = "signquizz.json";
@@ -14,6 +15,10 @@ window.onload = function loadJSON() {
         index = getRndInteger(0, objectLength(signs) - 1);
         image.innerHTML = "<img src=\"" + signs[index].imageURL + "\">";
         signName = signs[index].name;
+        for (var i = 0; i < objectLength(signs[index].synonymous); i++) {
+            console.log(signs[index].synonymous[i]);
+            signNameSyn.push(signs[index].synonymous[i]);
+        }
     };
     xhr.onerror = function (err) {
         console.log("Error: " + err);
@@ -33,28 +38,36 @@ var getRndInteger = function (min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 };
 var validateAnswer = function (answer) {
-    var validation = false;
+    var validation = "";
     if (replaceDiacritics(answer.value).toUpperCase() === signName) {
-        validation = true;
+        validation = "correct";
+    }
+    else if (signNameSyn.indexOf(replaceDiacritics(answer.value).toUpperCase()) != -1) {
+        validation = "correct";
     }
     else {
-        validation = false;
+        validation = "faux";
     }
     var output = document.querySelector('#output');
     var button = document.querySelector('#displayResult');
     button.addEventListener('click', function (e) {
-        output.innerHTML = "Résultat : " + validation + '<br><br>';
-        document.querySelector('#output').appendChild(buttonRecharge);
+        output.innerHTML = "<br>Résultat : " + validation + '<br><br>';
+        document.querySelector('#output').appendChild(buttonFindSolution);
     });
-    var buttonRecharge = document.createElement('button');
-    buttonRecharge.textContent = "Recharger la page";
-    buttonRecharge.className = "btn btn-secondary";
-    buttonRecharge.addEventListener('click', function (e) {
-        location.reload();
+    var buttonFindSolution = document.createElement('button');
+    buttonFindSolution.textContent = "Chercher la solution";
+    buttonFindSolution.className = "btn btn-danger";
+    buttonFindSolution.addEventListener('click', function (e) {
+        var win = window.open("doc/SignesConventionnels.pdf", '_blank');
+        win.focus();
     });
 };
+function reloadPage() {
+    location.reload();
+}
 var replaceDiacritics = function (str) {
-    var alphabet = { a: /[\u0061\u24D0\uFF41\u1E9A\u00E0\u00E1\u00E2\u1EA7\u1EA5\u1EAB\u1EA9\u00E3\u0101\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u0227\u01E1\u00E4\u01DF\u1EA3\u00E5\u01FB\u01CE\u0201\u0203\u1EA1\u1EAD\u1EB7\u1E01\u0105\u2C65\u0250]/ig,
+    var alphabet = {
+        a: /[\u0061\u24D0\uFF41\u1E9A\u00E0\u00E1\u00E2\u1EA7\u1EA5\u1EAB\u1EA9\u00E3\u0101\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u0227\u01E1\u00E4\u01DF\u1EA3\u00E5\u01FB\u01CE\u0201\u0203\u1EA1\u1EAD\u1EB7\u1E01\u0105\u2C65\u0250]/ig,
         aa: /[\uA733]/ig,
         ae: /[\u00E6\u01FD\u01E3]/ig,
         ao: /[\uA735]/ig,
