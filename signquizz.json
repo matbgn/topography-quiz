@@ -14,13 +14,13 @@
 	{
 		"id":3,
 		"name": "ALIMENTATION EN EAU",
-		"synonymous": [],
+		"synonymous": ["RESERVOIR", "CITERNE", "STATION DE POMPAGE"],
 		"imageURL": "img/Screenshot_003.png"
 	},
 	{
 		"id":4,
 		"name": "CAMPING",
-		"synonymous": [],
+		"synonymous": ["PLACE DE CAMPING", "TERRAIN DE CAMPING"],
 		"imageURL": "img/Screenshot_004.png"
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"id":9,
 		"name": "PARC",
-		"synonymous": [],
+		"synonymous": ["INSTALLATION DE LOISIRS"],
 		"imageURL": "img/Screenshot_009.png"
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"id":13,
 		"name": "CHEMIN CARROSSABLE",
-		"synonymous": [],
+		"synonymous": ["ROUTE CARROSSABLE"],
 		"imageURL": "img/Screenshot_013.png"
 	},
 	{
@@ -86,19 +86,19 @@
 	{
 		"id":15,
 		"name": "ROUTE DE CLASSE 3",
-		"synonymous": [],
+		"synonymous": ["ROUTE DE 3EME CLASSE"],
 		"imageURL": "img/Screenshot_015.png"
 	},	
 	{
 		"id":16,
 		"name": "ROUTE DE CLASSE 2",
-		"synonymous": [],
+		"synonymous": ["ROUTE DE 2EME CLASSE"],
 		"imageURL": "img/Screenshot_016.png"
 	},
 	{
 		"id":17,
 		"name": "ROUTE DE CLASSE 1",
-		"synonymous": [],
+		"synonymous": ["ROUTE DE 1ERE CLASSE"],
 		"imageURL": "img/Screenshot_017.png"
 	},
 	{
@@ -122,25 +122,25 @@
 	{
 		"id":21,
 		"name": "CLOCHER",
-		"synonymous": [],
+		"synonymous": ["TOUR SACREE", "CHAPELLE"],
 		"imageURL": "img/Screenshot_021.png"
 	},
 	{
 		"id":22,
 		"name": "BATIMENT",
-		"synonymous": [],
+		"synonymous": ["BATIMENTS"],
 		"imageURL": "img/Screenshot_022.png"
 	},
 	{
 		"id":23,
 		"name": "TOUR D'HABITATION",
-		"synonymous": [],
+		"synonymous": ["TOUR D'HABITATION > 25M"],
 		"imageURL": "img/Screenshot_023.png"
 	},
 	{
 		"id":24,
 		"name": "COUVERT",
-		"synonymous": [],
+		"synonymous": ["BATIMENT OUVERT", "SERRE"],
 		"imageURL": "img/Screenshot_024.png"
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"id":28,
 		"name": "PYRAMIDE DE TRIANGULATION",
-		"synonymous": [],
+		"synonymous": ["TRIANGULATION"],
 		"imageURL": "img/Screenshot_028.png"
 	},
 	{
 		"id":29,
 		"name": "ORATOIRE",
-		"synonymous": [],
+		"synonymous": ["CROIX"],
 		"imageURL": "img/Screenshot_029.png"
 	},
 	{
@@ -206,19 +206,19 @@
 	{
 		"id":35,
 		"name": "TUNNEL",
-		"synonymous": [],
+		"synonymous": ["TUNNEL FERROVIAIRE"],
 		"imageURL": "img/Screenshot_035.png"
 	},
 	{
 		"id":36,
 		"name": "GALERIE",
-		"synonymous": [],
+		"synonymous": ["GALERIE FERROVIAIRE"],
 		"imageURL": "img/Screenshot_036.png"
 	},
 	{
 		"id":37,
 		"name": "TELEPHERIQUE",
-		"synonymous": [],
+		"synonymous": ["TELECABINE", "TELESIEGE", "TELEPHERIQUE AVEC PYLONES", "TELECABINE AVEC PYLONES", "TELESIEGE AVEC PYLONES"],
 		"imageURL": "img/Screenshot_037.png"
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"id":43,
 		"name": "PISTE D'ATHLETISME",
-		"synonymous": [],
+		"synonymous": ["TERRAIN D'ATHLETISME"],
 		"imageURL": "img/Screenshot_043.png"
 	},
 	{
@@ -302,25 +302,25 @@
 	{
 		"id":51,
 		"name": "LIGNE ELECTRIQUE A HAUTE TENSION",
-		"synonymous": [],
+		"synonymous": ["LIGNE A HAUTE TENSION", "LIGNE ELECTRIQUE"],
 		"imageURL": "img/Screenshot_051.png"
 	},
 	{
 		"id":52,
 		"name": "BASSIN",
-		"synonymous": [],
+		"synonymous": ["FONTAINE"],
 		"imageURL": "img/Screenshot_052.png"
 	},
 	{
 		"id":53,
 		"name": "PISCINE",
-		"synonymous": [],
+		"synonymous": ["PISCINE PUBLIQUE"],
 		"imageURL": "img/Screenshot_053.png"
 	},
 	{
 		"id":54,
 		"name": "FONTAINE",
-		"synonymous": [],
+		"synonymous": ["CITERNE"],
 		"imageURL": "img/Screenshot_054.png"
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"id":59,
 		"name": "TERRAIN DE GOLF",
-		"synonymous": [],
+		"synonymous": ["GOLF"],
 		"imageURL": "img/Screenshot_059.png"
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"id":62,
 		"name": "HOPITAL",
-		"synonymous": [],
+		"synonymous": ["CLINIQUE"],
 		"imageURL": "img/Screenshot_062.png"
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"id":64,
 		"name": "VIGNES",
-		"synonymous": [],
+		"synonymous": ["PEPINIERE"],
 		"imageURL": "img/Screenshot_064.png"
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"id":74,
 		"name": "CAVERNE",
-		"synonymous": [],
+		"synonymous": ["GROTTE"],
 		"imageURL": "img/Screenshot_074.png"
 	},
 	{
@@ -458,13 +458,13 @@
 	{
 		"id":77,
 		"name": "FORET CLAIRSEMEE",
-		"synonymous": [],
+		"synonymous": ["BUISSONS"],
 		"imageURL": "img/Screenshot_077.png"
 	},
 	{
 		"id":78,
 		"name": "ZONE HUMIDE",
-		"synonymous": [],
+		"synonymous": ["MARAIS", "ROSEAUX", "ZONE ALLUVIALE", "TOURBIERE"],
 		"imageURL": "img/Screenshot_078.png"
 	},
 	{
@@ -541,7 +541,7 @@
 	{
 		"id":91,
 		"name": "TELEPHERIQUE",
-		"synonymous": [],
+		"synonymous": ["TELECABINE", "TELESIEGE", "TELEPHERIQUE AVEC PYLONES", "TELECABINE AVEC PYLONES", "TELESIEGE AVEC PYLONES"],
 		"imageURL": "img/Screenshot_091.png"
 	},
 	{
