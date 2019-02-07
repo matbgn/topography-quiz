@@ -2,7 +2,7 @@
 	{
 		"id":1,
 		"name": "HALTE",
-		"synonymous": ["HALTE DE TRAIN"],
+		"synonymous": ["HALTE DE TRAIN", "ARRET DE TRAIN"],
 		"imageURL": "img/Screenshot_001.png"
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"id":25,
 		"name": "TOUR DE REFROIDISSEMENT",
-		"synonymous": [],
+		"synonymous": ["CENTRALE NUCLEAIRE"],
 		"imageURL": "img/Screenshot_025.png"
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"id":27,
 		"name": "CHEMINEE MARQUANTE",
-		"synonymous": [],
+		"synonymous": ["GRANDE CHEMINEE", "CHEMINEE"],
 		"imageURL": "img/Screenshot_027.png"
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"id":72,
 		"name": "CASCADE",
-		"synonymous": [],
+		"synonymous": ["CHUTE D'EAU"],
 		"imageURL": "img/Screenshot_072.png"
 	},
 	{
