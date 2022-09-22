@@ -290,13 +290,13 @@
 	{
 		"id":49,
 		"name": "GRANDE ANTENNE EMETTRICE",
-		"synonymous": [],
+		"synonymous": ["GRAND EMETTEUR RADIO ET TV", "GRAND EMETTEUR RADIO", "GRAND EMETTEUR TV", "EMETTEUR RADIO ET TV", "EMETTEUR RADIO", "EMETTEUR TV", "ANTENNE RADIO ET TV", "ANTENNE RADIO", "ANTENNE TV"],
 		"imageURL": "img/Screenshot_049.png"
 	},
 	{
 		"id":50,
 		"name": "PETITE ANTENNE EMETTRICE",
-		"synonymous": [],
+		"synonymous": ["PETIT EMETTEUR RADIO ET TV", "PETIT EMETTEUR RADIO", "PETIT EMETTEUR TV", "EMETTEUR RADIO ET TV", "EMETTEUR RADIO", "EMETTEUR TV", "ANTENNE RADIO ET TV", "ANTENNE RADIO", "ANTENNE TV"],
 		"imageURL": "img/Screenshot_050.png"
 	},
 	{
